@@ -100,5 +100,3 @@ This project is open-source and licensed under the MIT License.
 <h4 align="center">Made with 💻 in C++</h4>
 
 ---
-
-Let me know if you'd like me to insert a screenshot block or GIF preview, or want it converted to a downloadable file.
