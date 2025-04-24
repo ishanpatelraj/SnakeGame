@@ -66,10 +66,24 @@ SnakeGame/
 
 
 ---
+🧾 Flowchart
+
+![Gameplay Screenshot](Resources/flow_chart.png)
+
+
+---
 
 🧾 Screenshots
+<p align="center">
+  <img src="Resources/Screenshot_2025-04-05_150044.png" alt="Game Start" width="200" length="500"/>
+  <img src="Resources/Screenshot_2025-04-12_002552.png" alt="Food Collected" width="200"/>
+  <img src="Resources/Screenshot_2025-04-12_002650.png" alt="Near Collision" width="200"/>
+</p>
 
-![Gameplay Screenshot](images/screenshot1.png)
+<p align="center">
+  <img src="Resources/Screenshot_2025-04-12_003155.png" alt="Game Over" width="200"/>
+  <img src="Resources/Screenshot_2025-04-12_003320.png" alt="Final Score" width="200"/>
+</p>
 
 
 ---
